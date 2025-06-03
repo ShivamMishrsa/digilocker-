@@ -31,8 +31,8 @@ export default function Dashboard() {
 
   // Mock data
   const user = {
-    name: "John Doe",
-    email: "john.doe@example.com",
+    name: "Shivam",
+    email: "shivam@example.com",
     documentsCount: 12,
     storageUsed: "45.2 MB",
     storageLimit: "1 GB",
